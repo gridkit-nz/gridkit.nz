@@ -2,4 +2,4 @@
 
 new site in progress
 
-rongomai@gridkit.nz
+rongomai [at] gridkit.nz
