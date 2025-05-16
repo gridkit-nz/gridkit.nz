@@ -1,3 +1,5 @@
 # gridkit.nz
 
-test
+new site in progress
+
+rongomai@gridkit.nz
