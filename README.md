@@ -44,7 +44,7 @@ use local materials, design for disassembly, and keep every part in use as long 
 ## Stay Connected
 
 We’re updating the platform and will relaunch with new kits, open-source plans and community resources.  
-To be notified when orders reopen, join the mailing list at **[gridkit.nz](https://gridkit.nz)** or contact **rongomai@gridkit.nz**.
+contact **rongomai@gridkit.nz** for more info
 
 ---
 
