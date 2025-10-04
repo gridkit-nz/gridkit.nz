@@ -1,8 +1,3 @@
----
-layout: default
-title: Grid Kit — Modular 40 mm Furniture System
----
-
 # Grid Kit
 
 > Anyone can be a maker.
